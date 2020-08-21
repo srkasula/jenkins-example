@@ -65,11 +65,11 @@
     <distributionManagement>
         <repository>
             <id>myMavenRepo</id>
-            <url>${myMavenRepoWriteUrl}</url>
+            <url>https://mymavenrepo.com/repo/kgnDw3rkibLuTsGWOReH/</url>
         </repository>
         <snapshotRepository>
             <id>myMavenRepo</id>
-            <url>${myMavenRepoWriteUrl}</url>
+            <url>https://mymavenrepo.com/repo/kgnDw3rkibLuTsGWOReH/</url>
         </snapshotRepository>
     </distributionManagement>
 
